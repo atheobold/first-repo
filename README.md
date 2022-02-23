@@ -1,2 +1,3 @@
-# first-repo
-My first repository for STAT 331
+# Example Repository from STAT 331
+
+First repository from STAT 331
